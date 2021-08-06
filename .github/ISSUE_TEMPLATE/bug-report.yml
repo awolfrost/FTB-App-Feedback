@@ -1,12 +1,11 @@
 name: Bug Report
 description: Report an issue with the Windows version of the FTB App
-title: "[Bug]: "
-labels: [bug]
+labels: ["bug:unconfirmed"]
 body:
   - type: dropdown
     id: os
     validations:
-        required: true
+      required: true
     attributes:
       label: What Operating System
       multiple: false
