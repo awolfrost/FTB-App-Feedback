@@ -1,6 +1,6 @@
 <p align="center"><a href="https://feed-the-beast.com/app" ><img src="/.github/meta/assets/logo.png" width="150" /></a></p>
 
-<h1 style="text-align: center; margin-top: 1rem;">FTB App Feedback</h1>
+<h1 align="center" style="margin-top: 1rem;">FTB App Feedback</h1>
 
 <p  align="center">One stop shop for any and all feedback for the FTB App</p>
 
