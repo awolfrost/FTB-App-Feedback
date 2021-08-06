@@ -1,5 +1,5 @@
 name: Feature Request
-description: Report an issue with the Windows version of the FTB App
+description: Suggest a new feature for the FTB App here
 labels: ["feature:request"]
 body:
   - type: dropdown

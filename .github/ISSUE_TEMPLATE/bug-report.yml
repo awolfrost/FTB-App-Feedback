@@ -1,5 +1,5 @@
 name: Bug Report
-description: Report an issue with the Windows version of the FTB App
+description: Report an issue with the FTB App
 labels: ["bug:unconfirmed"]
 body:
   - type: dropdown

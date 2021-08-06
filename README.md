@@ -1,11 +1,10 @@
-<center>
-<a href="https://feed-the-beast.com/app" ><img src="/.github/meta/assets/logo.png" width="150" /></a></center>
+<p align="center"><a href="https://feed-the-beast.com/app" ><img src="/.github/meta/assets/logo.png" width="150" /></a></p>
 
 <h1 style="text-align: center; margin-top: 1rem;">FTB App Feedback</h1>
 
-<p style="text-align: center">One stop shop for any and all feedback for the FTB App</p>
+<p  align="center">One stop shop for any and all feedback for the FTB App</p>
 
-<div style="text-align: center">
+<div  align="center">
 <a href="https://github.com/FTBTeam/FTB-App-Feedback/issues"><img src="https://img.shields.io/github/issues/FTBTeam/FTB-App-Feedback" alt="GitHub issues"></a> <img src="https://img.shields.io/github/issues/ftbteam/ftb-app-feedback/feature:request" alt="GitHub issues by-label"> <img src="https://img.shields.io/github/issues/ftbteam/ftb-app-feedback/bug:unconfirmed" alt="GitHub issues by-label"> <img src="https://img.shields.io/github/issues/ftbteam/ftb-app-feedback/bug" alt="GitHub issues by-label">
 <a href="https://ftb.team/discord"><img alt="Discord" src="https://img.shields.io/discord/372448486723158016"></a>
 </div>
