@@ -21,20 +21,6 @@ Got a new feature that you'll think fit right in? We'd love to hear it. Please r
 
 To submit a feature request, go [here](https://github.com/FTBTeam/FTB-App-Feedback/issues) and select `Feature request`.
 
-## Code issues
-
-Found an issue in our code? Please let us know in the right place. We try to keep this repository just for feedback, interaction issues and user level bugs.
-
-**For Frontend issues**
-
-[![FTB App Frontend](https://img.shields.io/badge/Repository-FTB%20App%20Frontend-green)](https://github.com/FTBTeam/FTB-App)
-
-**For Subprocess issues**
-
-Our subprocess is the brain of the FTB App, without it, our app would just be a paper weight.
-
-[![FTB App Frontend](https://img.shields.io/badge/Repository-FTB%20App%20Subprocess-green)](https://github.com/CreeperHost/modpacklauncher)
-
 ## Anything else
 
 Need some help using the app? Get in touch on our [Helpdesk](https://feed-the-beast.com/support).
