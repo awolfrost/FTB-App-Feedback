@@ -25,4 +25,4 @@ To submit a feature request, go [here](https://github.com/FTBTeam/FTB-App-Feedba
 
 Need some help using the app? Get in touch on our [Helpdesk](https://feed-the-beast.com/support).
 
-Wanna just have a chat about app? Jump on our [Discord](https://ftb.team/discord).
+Wanna just have a chat about our app? Jump on our [Discord](https://ftb.team/discord).
